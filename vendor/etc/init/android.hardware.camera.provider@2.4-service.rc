@@ -1,0 +1,15 @@
+service vendor.camera-provider-2-4 /vendor/bin/hw/android.hardware.camera.provider@2.4-service
+    class hal
+    user cameraserver
+
+    #Jianying.zhang@ODM_RH.Camera.Portting
+    #ifdef VENDOR_EDIT
+    #HongBo@Camera 20170221 add sdcard_rw user group
+    group audio camera input drmrpc sdcard_rw system
+    #else
+    group audio camera input drmrpc
+    #endif
+
+    ioprio rt 4
+    capabilities SYS_NICE
+    writepid /dev/cpuset/camera-daemon/tasks /dev/stune/foreground/tasks

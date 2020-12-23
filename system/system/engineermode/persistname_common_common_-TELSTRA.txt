@@ -1,0 +1,3 @@
+com.opera.browser
+com.opera.preinstall
+com.facebook.katana

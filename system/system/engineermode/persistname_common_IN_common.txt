@@ -1,0 +1,7 @@
+in.amazon.mShop.android.shopping
+net.one97.paytm
+com.UCMobile.intl
+com.eterno
+com.til.timesnews
+com.realmestore.app
+com.realmecomm.app

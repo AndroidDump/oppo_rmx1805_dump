@@ -1,0 +1,9 @@
+#!/system/bin/sh
+setenforce 0
+ftmdaemon -n
+#svc wifi disable
+#sleep 1
+#rmmod wlan.ko
+#insmod /vendor/lib/modules/pronto_wlan.ko con_mode=5
+#ptt_socket_app -f
+#sleep 1

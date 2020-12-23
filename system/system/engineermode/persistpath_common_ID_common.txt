@@ -1,0 +1,8 @@
+data/app/id.co.babe
+data/app/com.msd.JTClient
+data/app/com.zhangyue.read
+data/app/com.jakarta.baca
+data/app/com.lazada.android
+data/app/com.UCMobile.intl
+data/app/com.kwai.mercury
+data/app/com.realmecomm.app

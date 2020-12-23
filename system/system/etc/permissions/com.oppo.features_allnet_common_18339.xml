@@ -1,0 +1,23 @@
+<!-- This file is auto-generated.  DO NOT MODIFY. -->
+<permissions>
+    <!-- Yongxing.Chen@PSW.MM.Display.Feature, 2018/05/19, Add for protect eyes -->
+    <feature name="oppo.eyeprotect.support" />
+    <!-- jizhengkang@Plf.Framework, 2018/09/06, add for low memory -->
+    <feature name="oppo.memory.auto.silence.reboot" />
+    <feature name="oppo.rom.lowram.support" />
+    <feature name="oppo.lowramclear.support" />
+    <!-- MingQiang.Guo@BSP.TP, 2018/0/26, Add for black gesture-->
+    <feature name="oppo.lcd.first.tp.last.support" />
+    <!-- MingQiang.Guo@PSW.BSP.TP, 2018/0/26, Add for narrow bezel support -->
+    <feature name="oppo.narrow.bezel.support" />
+    <!-- Xiao.Cai, 2018/09/05, Add for RecentTask Small Icon-->
+    <feature name="oppo.recents.smallicon" />
+    <!-- Jinzhu.Han@MM.Display.Feature, 2019/03/27, Add for supporting display cutout -->
+    <feature name="com.oppo.feature.screen.heteromorphism" />
+    <!-- Changwei.Li@ROM.SDK, 2017/10/12, add support display compat-->
+    <feature name="oppo.display.compat.support" />
+    <!-- Xing.Hu@RM.AD.OppoFeature.CommonSoft., 2019/04/28, add support light os func-->
+    <feature name="oppo.sys.light.func" />
+    <!-- Binqiang.Luo@RM.android.app, 2019/04/02, Add for show software store  -->
+    <feature name="oppo.oppomarket.flaginstall"/>
+</permissions>

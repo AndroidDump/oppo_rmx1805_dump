@@ -1,0 +1,5 @@
+#!/system/bin/sh
+svc wifi disable
+sleep 1
+rmmod wlan.ko
+ptt_socket_app -f

@@ -1,0 +1,7 @@
+data/app/in.amazon.mShop.android.shopping
+data/app/net.one97.paytm
+data/app/com.UCMobile.intl
+data/app/com.eterno
+data/app/com.til.timesnews
+data/app/com.realmestore.app
+data/app/com.realmecomm.app
